@@ -1,0 +1,90 @@
+[
+  {
+    "id": "notif_4fb3c28a",
+    "userId": "cli_2",
+    "role": "client",
+    "title": "Your Design Request Was Accepted!",
+    "message": "Project \"Corporate Sustainability & Fleet Safety Brochure\" has been started by your designer.",
+    "type": "project",
+    "link": "/portal/projects",
+    "isRead": false,
+    "createdAt": "2026-10-30T13:38:41.815Z"
+  },
+  {
+    "id": "notif_13556e00",
+    "userId": "usr_designer_1",
+    "role": "designer",
+    "title": "Payment Received: KSh 17,500",
+    "message": "Wanjiku Mwangi made a payment of KSh 17,500 (MPESA Ref: QK34816322KES)",
+    "type": "payment",
+    "link": "/financials",
+    "isRead": false,
+    "createdAt": "2026-10-30T13:34:48.070Z"
+  },
+  {
+    "id": "notif_504a5291",
+    "userId": "usr_client_1",
+    "role": "client",
+    "title": "Your Design Request Was Accepted!",
+    "message": "Project \"Mount Kenya Reserve Cold Brew Can Label\" has been started by your designer.",
+    "type": "project",
+    "link": "/portal/projects",
+    "isRead": false,
+    "createdAt": "2026-10-30T13:34:48.018Z"
+  },
+  {
+    "id": "notif_541e96cd",
+    "userId": "usr_designer_1",
+    "role": "designer",
+    "title": "New Design Request Submitted",
+    "message": "Wanjiku Mwangi submitted a request: \"Mount Kenya Reserve Cold Brew Can Label\" (REQ-2026-004)",
+    "type": "request",
+    "link": "/requests",
+    "isRead": false,
+    "createdAt": "2026-10-30T13:34:47.849Z"
+  },
+  {
+    "id": "notif_1",
+    "userId": "usr_designer_1",
+    "role": "designer",
+    "title": "New Design Request Received",
+    "message": "Brian Omondi (Apex Logistics) submitted a request: \"Corporate Sustainability Brochure\"",
+    "type": "request",
+    "link": "/requests",
+    "isRead": false,
+    "createdAt": "2026-10-25T11:20:00.000Z"
+  },
+  {
+    "id": "notif_2",
+    "userId": "usr_designer_1",
+    "role": "designer",
+    "title": "Revision Requested on Artwork",
+    "message": "Dr. Amina Hassan requested pricing adjustments on \"Zahra Swahili Coast Menu Proof v1.0\"",
+    "type": "revision",
+    "link": "/artwork",
+    "isRead": false,
+    "createdAt": "2026-10-28T18:01:00.000Z"
+  },
+  {
+    "id": "notif_3",
+    "userId": "usr_client_1",
+    "role": "client",
+    "title": "New Artwork Version Uploaded",
+    "message": "Alex Kamau uploaded \"Revised Packaging - High Contrast Deep Roast Edition v2.0\" for your review.",
+    "type": "artwork",
+    "link": "/portal/artwork",
+    "isRead": false,
+    "createdAt": "2026-10-28T11:32:00.000Z"
+  },
+  {
+    "id": "notif_4",
+    "userId": "usr_designer_1",
+    "role": "designer",
+    "title": "M-Pesa Deposit Received",
+    "message": "KSh 20,000 received from Savannah Coffee (Ref: QKH718299A)",
+    "type": "payment",
+    "link": "/financials",
+    "isRead": true,
+    "createdAt": "2026-10-16T14:23:00.000Z"
+  }
+]

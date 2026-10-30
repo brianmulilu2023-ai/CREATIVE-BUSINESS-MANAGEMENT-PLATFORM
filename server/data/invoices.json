@@ -1,0 +1,177 @@
+[
+  {
+    "id": "inv_40b1088a",
+    "invoiceNumber": "INV-2026-006",
+    "projectId": "prj_81afe7aa",
+    "projectName": "Corporate Sustainability & Fleet Safety Brochure",
+    "clientId": "cli_2",
+    "clientName": "Brian Omondi (Apex Logistics)",
+    "designerId": "usr_designer_1",
+    "totalAmount": 35000,
+    "depositAmount": 17500,
+    "balanceAmount": 17500,
+    "currency": "KES",
+    "dueDate": "2026-11-15",
+    "status": "unpaid",
+    "items": [
+      {
+        "description": "Brochures - Corporate Sustainability & Fleet Safety Brochure",
+        "quantity": 1,
+        "unitPrice": 35000,
+        "amount": 35000
+      }
+    ],
+    "createdAt": "2026-10-30T13:38:41.814Z"
+  },
+  {
+    "id": "inv_86fc41f7",
+    "invoiceNumber": "INV-2026-005",
+    "projectId": "prj_7ac6ce54",
+    "projectName": "Mount Kenya Reserve Cold Brew Can Label",
+    "clientId": "usr_client_1",
+    "clientName": "Wanjiku Mwangi",
+    "designerId": "usr_designer_1",
+    "totalAmount": 35000,
+    "depositAmount": 17500,
+    "balanceAmount": 0,
+    "currency": "KES",
+    "dueDate": "2026-11-28",
+    "status": "paid",
+    "items": [
+      {
+        "description": "Branding - Mount Kenya Reserve Cold Brew Can Label",
+        "quantity": 1,
+        "unitPrice": 35000,
+        "amount": 35000
+      }
+    ],
+    "createdAt": "2026-10-30T13:34:48.017Z",
+    "updatedAt": "2026-10-30T13:34:48.026Z"
+  },
+  {
+    "id": "inv_1",
+    "invoiceNumber": "INV-2026-001",
+    "projectId": "prj_1",
+    "projectName": "Savannah Single-Origin Coffee Packaging",
+    "clientId": "cli_1",
+    "clientName": "Wanjiku Mwangi (Savannah Coffee)",
+    "designerId": "usr_designer_1",
+    "totalAmount": 45000,
+    "depositAmount": 20000,
+    "balanceAmount": 25000,
+    "currency": "KES",
+    "dueDate": "2026-11-20",
+    "status": "deposit_paid",
+    "items": [
+      {
+        "description": "Concept Ideation & Creative Direction",
+        "quantity": 1,
+        "unitPrice": 15000,
+        "amount": 15000
+      },
+      {
+        "description": "Packaging Front/Back Dieline Vectors",
+        "quantity": 1,
+        "unitPrice": 20000,
+        "amount": 20000
+      },
+      {
+        "description": "3D Photorealistic Retail Renders (4 angles)",
+        "quantity": 1,
+        "unitPrice": 10000,
+        "amount": 10000
+      }
+    ],
+    "createdAt": "2026-10-16T12:00:00.000Z"
+  },
+  {
+    "id": "inv_2",
+    "invoiceNumber": "INV-2026-002",
+    "projectId": "prj_2",
+    "projectName": "Apex Fleet Graphic Wraps & Vehicle Decals",
+    "clientId": "cli_2",
+    "clientName": "Brian Omondi (Apex Logistics)",
+    "designerId": "usr_designer_1",
+    "totalAmount": 60000,
+    "depositAmount": 30000,
+    "balanceAmount": 30000,
+    "currency": "KES",
+    "dueDate": "2026-11-10",
+    "status": "deposit_paid",
+    "items": [
+      {
+        "description": "Commercial Van Fleet Livery Template",
+        "quantity": 2,
+        "unitPrice": 15000,
+        "amount": 30000
+      },
+      {
+        "description": "Semi-Trailer Heavy Hauler Graphics Kit",
+        "quantity": 1,
+        "unitPrice": 30000,
+        "amount": 30000
+      }
+    ],
+    "createdAt": "2026-10-12T10:00:00.000Z"
+  },
+  {
+    "id": "inv_3",
+    "invoiceNumber": "INV-2026-003",
+    "projectId": "prj_3",
+    "projectName": "Zahra Lodge Swahili Oceanfront Menu",
+    "clientId": "cli_3",
+    "clientName": "Dr. Amina Hassan (Zahra Lodge)",
+    "designerId": "usr_designer_1",
+    "totalAmount": 28000,
+    "depositAmount": 0,
+    "balanceAmount": 28000,
+    "currency": "KES",
+    "dueDate": "2026-11-05",
+    "status": "unpaid",
+    "items": [
+      {
+        "description": "Tri-Fold Restaurant Dining & Beverage Menu",
+        "quantity": 1,
+        "unitPrice": 22000,
+        "amount": 22000
+      },
+      {
+        "description": "Daily Catch Chalkboard Insert Cards",
+        "quantity": 1,
+        "unitPrice": 6000,
+        "amount": 6000
+      }
+    ],
+    "createdAt": "2026-10-20T15:00:00.000Z"
+  },
+  {
+    "id": "inv_4",
+    "invoiceNumber": "INV-2026-004",
+    "projectId": "prj_4",
+    "projectName": "Kiprono AgriTech Mobile App UI Brand Guide",
+    "clientId": "cli_4",
+    "clientName": "Kevin Kiprono (Kiprono Agro Tech)",
+    "designerId": "usr_designer_1",
+    "totalAmount": 50000,
+    "depositAmount": 25000,
+    "balanceAmount": 0,
+    "currency": "KES",
+    "dueDate": "2026-10-10",
+    "status": "paid",
+    "items": [
+      {
+        "description": "Mobile Design Tokens & Component Library",
+        "quantity": 1,
+        "unitPrice": 35000,
+        "amount": 35000
+      },
+      {
+        "description": "Brand Guidelines Manual PDF (32 pages)",
+        "quantity": 1,
+        "unitPrice": 15000,
+        "amount": 15000
+      }
+    ],
+    "createdAt": "2026-09-02T09:00:00.000Z"
+  }
+]

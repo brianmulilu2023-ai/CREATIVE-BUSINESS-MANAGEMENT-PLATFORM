@@ -1,0 +1,41 @@
+[
+  {
+    "id": "rev_1",
+    "projectId": "prj_1",
+    "artworkId": "art_1",
+    "version": "v1.0",
+    "requestedBy": "Wanjiku Mwangi",
+    "comment": "We love the topographic concept! Please make the tasting notes (Dark Chocolate, Blackcurrant) 20% larger so they stand out on supermarket shelves. Also ensure the KEBS standardization diamond logo is included on the rear panel.",
+    "annotatedAreas": [
+      {
+        "x": 45,
+        "y": 32,
+        "note": "Increase font size for tasting notes"
+      },
+      {
+        "x": 80,
+        "y": 75,
+        "note": "Place KEBS logo here"
+      }
+    ],
+    "requestedAt": "2026-10-22T09:15:00.000Z",
+    "status": "addressed"
+  },
+  {
+    "id": "rev_2",
+    "projectId": "prj_3",
+    "artworkId": "art_3",
+    "version": "v1.0",
+    "requestedBy": "Dr. Amina Hassan",
+    "comment": "Please update the prices for the Tamarind Lobster Platter to KSh 3,800 and swap the mocktail font for something slightly lighter and easier to read under dim candlelight.",
+    "annotatedAreas": [
+      {
+        "x": 60,
+        "y": 40,
+        "note": "Change price to KSh 3,800"
+      }
+    ],
+    "requestedAt": "2026-10-28T18:00:00.000Z",
+    "status": "open"
+  }
+]

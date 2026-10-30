@@ -1,0 +1,38 @@
+[
+  {
+    "id": "usr_a5e74ab7",
+    "name": "BRIAN",
+    "email": "brianmulilu2023@gmail.com",
+    "passwordHash": "$2a$10$EwCzWPBhnSXH/LPxudonU.vyOE4OVG9Bh7iqXr1aCAnfqozK3YXn.",
+    "role": "designer",
+    "company": "MULILU",
+    "phone": "+254 798405726",
+    "bio": "",
+    "avatar": "https://api.dicebear.com/7.x/initials/svg?seed=BRIAN&backgroundColor=2563eb,0f172a,38bdf8",
+    "createdAt": "2026-10-30T13:42:14.999Z"
+  },
+  {
+    "id": "usr_designer_1",
+    "name": "Alex Kamau",
+    "email": "designer@creativedesk.io",
+    "passwordHash": "$2a$10$JdHs.DoUav8BMGO27GntQOvahZloQr/ppj8QNARgTH1.ePrU/vKqm",
+    "role": "designer",
+    "company": "Studio Pixel Africa",
+    "phone": "+254 712 345 678",
+    "bio": "Award-winning creative director & senior brand identity designer based in Nairobi, Kenya.",
+    "avatar": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=300&q=80",
+    "createdAt": "2026-01-10T08:00:00.000Z"
+  },
+  {
+    "id": "usr_client_1",
+    "name": "Wanjiku Mwangi",
+    "email": "client@savannahcoffee.co.ke",
+    "passwordHash": "$2a$10$JdHs.DoUav8BMGO27GntQO9QjQzoFYD2okfjBXeKSTtPXZ3q3RbtK",
+    "role": "client",
+    "company": "Savannah Premium Coffee Roasters",
+    "phone": "+254 722 987 654",
+    "bio": "Marketing lead at Savannah Coffee.",
+    "avatar": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?auto=format&fit=crop&w=300&q=80",
+    "createdAt": "2026-01-12T10:00:00.000Z"
+  }
+]

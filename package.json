@@ -1,0 +1,22 @@
+{
+  "name": "creativedesk",
+  "version": "1.0.0",
+  "description": "CreativeDesk – A complete creative business management SaaS platform",
+  "scripts": {
+    "dev:server": "cd server && npm start",
+    "dev:client": "cd client && npm run dev",
+    "build": "cd client && npm run build"
+  },
+  "keywords": [
+    "creative",
+    "agency",
+    "saas",
+    "kanban",
+    "freelance",
+    "kes",
+    "mpesa",
+    "invoicing"
+  ],
+  "author": "CreativeDesk Team",
+  "license": "MIT"
+}

@@ -1,0 +1,106 @@
+[
+  {
+    "id": "req_7bfd7ab2",
+    "requestId": "REQ-2026-004",
+    "clientId": "usr_client_1",
+    "clientName": "Wanjiku Mwangi",
+    "clientEmail": "client@savannahcoffee.co.ke",
+    "title": "Mount Kenya Reserve Cold Brew Can Label",
+    "category": "Branding",
+    "description": "330ml slim aluminium can label with waterproof matte varnish.",
+    "referenceImages": [],
+    "preferredColors": [
+      "#0F172A",
+      "#D97706"
+    ],
+    "dimensions": "210mm x 145mm",
+    "deadline": "2026-11-28",
+    "budget": 35000,
+    "currency": "KES",
+    "additionalInstructions": "Include vector dieline layer.",
+    "status": "accepted",
+    "convertedProjectId": "prj_7ac6ce54",
+    "createdAt": "2026-10-30T13:34:47.847Z",
+    "updatedAt": "2026-10-30T13:34:48.016Z"
+  },
+  {
+    "id": "req_1",
+    "requestId": "REQ-2026-001",
+    "clientId": "cli_1",
+    "clientName": "Wanjiku Mwangi (Savannah Coffee)",
+    "clientEmail": "client@savannahcoffee.co.ke",
+    "title": "Single-Origin Mount Kenya Coffee Bag Packaging",
+    "category": "Branding",
+    "description": "We need full packaging artwork for our new single-origin 250g and 500g coffee bags. Needs gold foil accents, recycled craft texture, and custom topographic illustration of Mt. Kenya.",
+    "referenceImages": [
+      "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=600&q=80"
+    ],
+    "preferredColors": [
+      "#1C1917",
+      "#D97706",
+      "#F59E0B",
+      "#FDFBF7"
+    ],
+    "dimensions": "180mm x 260mm x 80mm pouch with degassing valve",
+    "deadline": "2026-11-20",
+    "budget": 45000,
+    "currency": "KES",
+    "additionalInstructions": "CMYK print-ready PDF with dieline layer and emboss mask. Deliver vectors in AI and PDF.",
+    "status": "accepted",
+    "convertedProjectId": "prj_1",
+    "createdAt": "2026-10-15T09:00:00.000Z"
+  },
+  {
+    "id": "req_2",
+    "requestId": "REQ-2026-002",
+    "clientId": "cli_2",
+    "clientName": "Brian Omondi (Apex Logistics)",
+    "clientEmail": "brian@apexlogistics.co.ke",
+    "title": "Corporate Sustainability & Fleet Safety Brochure",
+    "category": "Brochures",
+    "description": "12-page landscape brochure highlighting our hybrid fleet, eco emissions pledge, and safety records for enterprise clients.",
+    "referenceImages": [
+      "https://images.unsplash.com/photo-1586528116311-ad8dd3c8310d?auto=format&fit=crop&w=600&q=80"
+    ],
+    "preferredColors": [
+      "#1E3A8A",
+      "#0284C7",
+      "#10B981"
+    ],
+    "dimensions": "A4 Landscape (297 x 210 mm)",
+    "deadline": "2026-11-15",
+    "budget": 35000,
+    "currency": "KES",
+    "additionalInstructions": "Include infographics for our regional carbon metrics and route map.",
+    "status": "accepted",
+    "convertedProjectId": "prj_81afe7aa",
+    "createdAt": "2026-10-25T11:20:00.000Z",
+    "updatedAt": "2026-10-30T13:38:41.812Z"
+  },
+  {
+    "id": "req_3",
+    "requestId": "REQ-2026-003",
+    "clientId": "cli_3",
+    "clientName": "Dr. Amina Hassan (Zahra Lodge)",
+    "clientEmail": "amina@zahralodge.com",
+    "title": "Diani Oceanfront Swahili Fusion Restaurant Menu",
+    "category": "Posters and flyers",
+    "description": "Waterproof tri-fold restaurant and cocktail lounge menu with Swahili geometric motifs and coastal culinary photography.",
+    "referenceImages": [
+      "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80"
+    ],
+    "preferredColors": [
+      "#042F2E",
+      "#D97706",
+      "#FEF3C7"
+    ],
+    "dimensions": "A3 Folded to 140mm x 297mm",
+    "deadline": "2026-11-05",
+    "budget": 28000,
+    "currency": "KES",
+    "additionalInstructions": "Need separate insert card for daily catch specials.",
+    "status": "accepted",
+    "convertedProjectId": "prj_3",
+    "createdAt": "2026-10-18T14:45:00.000Z"
+  }
+]

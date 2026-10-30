@@ -1,0 +1,71 @@
+[
+  {
+    "id": "cli_1",
+    "designerId": "usr_designer_1",
+    "name": "Wanjiku Mwangi",
+    "company": "Savannah Premium Coffee Roasters",
+    "email": "client@savannahcoffee.co.ke",
+    "phone": "+254 722 987 654",
+    "address": "Westlands Commercial Center, Nairobi",
+    "notes": "Premium specialty coffee brand looking for eco-luxury packaging and rebrand.",
+    "tags": [
+      "Retail",
+      "Beverage",
+      "Packaging",
+      "VIP"
+    ],
+    "totalSpent": 45000,
+    "createdAt": "2026-01-15T09:30:00.000Z"
+  },
+  {
+    "id": "cli_2",
+    "designerId": "usr_designer_1",
+    "name": "Brian Omondi",
+    "company": "Apex Logistics & Freight Kenya",
+    "email": "brian@apexlogistics.co.ke",
+    "phone": "+254 733 112 233",
+    "address": "Mombasa Road Business Park, Nairobi",
+    "notes": "Fleet vehicle branding, safety brochures, company profile.",
+    "tags": [
+      "Logistics",
+      "Corporate",
+      "Print"
+    ],
+    "totalSpent": 75000,
+    "createdAt": "2026-01-18T14:15:00.000Z"
+  },
+  {
+    "id": "cli_3",
+    "designerId": "usr_designer_1",
+    "name": "Dr. Amina Hassan",
+    "company": "Zahra Eco Sanctuary & Lodge",
+    "email": "amina@zahralodge.com",
+    "phone": "+254 720 554 433",
+    "address": "Diani Beach, Kwale County",
+    "notes": "Hospitality resort branding, menus, digital marketing campaign assets.",
+    "tags": [
+      "Hospitality",
+      "Eco-Tourism",
+      "Digital"
+    ],
+    "totalSpent": 120000,
+    "createdAt": "2026-02-01T11:00:00.000Z"
+  },
+  {
+    "id": "cli_4",
+    "designerId": "usr_designer_1",
+    "name": "Kevin Kiprono",
+    "company": "Kiprono Agro Tech Hub",
+    "email": "kevin@kipronotech.org",
+    "phone": "+254 711 889 900",
+    "address": "Eldoret Innovation Center",
+    "notes": "Farmer-facing mobile UI assets, pitch deck, annual impact report.",
+    "tags": [
+      "AgriTech",
+      "Tech",
+      "Impact"
+    ],
+    "totalSpent": 30000,
+    "createdAt": "2026-02-14T16:20:00.000Z"
+  }
+]

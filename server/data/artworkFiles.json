@@ -1,0 +1,54 @@
+[
+  {
+    "id": "art_1",
+    "projectId": "prj_1",
+    "version": "v1.0",
+    "title": "Initial Packaging Concept - Earth Ochre & Gold Leaf",
+    "fileUrl": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?auto=format&fit=crop&w=1200&q=80",
+    "fileType": "image/jpeg",
+    "fileSize": "4.8 MB",
+    "notes": "First draft featuring topographic elevation lines of Mount Kenya with warm ochre foil stamp.",
+    "uploadedBy": "Alex Kamau",
+    "uploadedAt": "2026-10-20T14:00:00.000Z",
+    "status": "revision_requested"
+  },
+  {
+    "id": "art_2",
+    "projectId": "prj_1",
+    "version": "v2.0",
+    "title": "Revised Packaging - High Contrast Deep Roast Edition",
+    "fileUrl": "https://images.unsplash.com/photo-1514432324607-a09d9b4aefdd?auto=format&fit=crop&w=1200&q=80",
+    "fileType": "image/jpeg",
+    "fileSize": "6.2 MB",
+    "notes": "Updated according to Wanjiku's feedback: Enlarged tasting notes badge, bolder barcode placement, and added Kenya Bureau of Standards mark.",
+    "uploadedBy": "Alex Kamau",
+    "uploadedAt": "2026-10-28T11:30:00.000Z",
+    "status": "pending_review"
+  },
+  {
+    "id": "art_3",
+    "projectId": "prj_3",
+    "version": "v1.0",
+    "title": "Zahra Swahili Coast Menu Proof",
+    "fileUrl": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=80",
+    "fileType": "image/jpeg",
+    "fileSize": "3.5 MB",
+    "notes": "Full spread tri-fold layout with allergen key and cocktail photography.",
+    "uploadedBy": "Alex Kamau",
+    "uploadedAt": "2026-10-26T16:20:00.000Z",
+    "status": "revision_requested"
+  },
+  {
+    "id": "art_4",
+    "projectId": "prj_4",
+    "version": "v3.0 - Final",
+    "title": "Kiprono UI Guidelines Master Asset Bundle",
+    "fileUrl": "https://images.unsplash.com/photo-1581291518857-4e27b48ff24e?auto=format&fit=crop&w=1200&q=80",
+    "fileType": "application/pdf",
+    "fileSize": "18.4 MB",
+    "notes": "Final approved brand asset book with vector symbols and web font package.",
+    "uploadedBy": "Alex Kamau",
+    "uploadedAt": "2026-10-09T17:00:00.000Z",
+    "status": "approved"
+  }
+]
